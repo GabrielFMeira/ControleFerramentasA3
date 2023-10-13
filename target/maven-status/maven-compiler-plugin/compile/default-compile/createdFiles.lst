@@ -1,0 +1,5 @@
+Model\Amigo.class
+Model\Emprestimo.class
+Model\Ferramenta.class
+Principal\MainClass.class
+Model\Gerenciador.class
